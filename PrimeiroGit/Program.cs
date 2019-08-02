@@ -21,6 +21,8 @@ namespace PrimeiroGit
             {
                 Console.WriteLine("TCHAU");
             }
+
+            Console.WriteLine("Fim!");
         }
     }
 }
